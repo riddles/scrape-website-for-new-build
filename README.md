@@ -1,4 +1,4 @@
-scrape-website-for-new-build
+AOKP d2vzw Scraper
 ============================
 
-scrapes goo.im for a new AOKP build
+Goes to goo.im's page on the Verizon gs3 and texts you if there is a new build out.
